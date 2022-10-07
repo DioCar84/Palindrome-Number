@@ -28,4 +28,4 @@ For example, 121 is a palindrome while 123 is not.
 
 -Constraints:
 
-    - -231 <= x <= 231 - 1
+    -231 <= x <= 231 - 1
